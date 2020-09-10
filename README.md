@@ -173,7 +173,7 @@ Here are some links to documentation for this project:
 
 - [How to use Backend Swagger UI](https://github.com/anitab-org/mentorship-backend/wiki/Using-Backend-Swagger-UI) and [test PR guide](/docs/test-pr-guide.md) contains a few resources for you to understand how to use the Swagger user interface provided by this app.
 - [Features Overview](/docs/features.md) has a high level understanding of the features this application has.
-- [Future ideas for the project](https://github.com/anitab-org/mentorship-backend/wiki/Future-ideas).
+- [Future ideas for the project](https://github.com/anitab-org/mentorship-backend/wiki/Future-ideas) contains some brainstormed ideas for the app.
 - [Troubleshoot guide](/docs/troubleshoots.md) contains common isssues other contributors may run into in their setup.
 - [Quality Assurance test cases](/docs/quality-assurance-test-cases.md) has test cases for each endpoint we have which you can use to learn about how each feature should work.
 - [CI/CD Process](/docs/ci_cd_process.md) which explains the processes and tools involved in deploying new code.
